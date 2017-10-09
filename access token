@@ -1,0 +1,5 @@
+consumer_key = 'WAHM8zyTCjHLyrFmdJ1BRBOFc'        #consumerkey string located in twitter apps
+consumer_secret = 'Mqzu3XRWFYpTLxcLURidTXOQSTfJrADt5YyI9LTqYfF85GwBUx'    # consumer secret string located in twitter apps
+
+access_token = '2388991603-1y8M2Aihmvsfvpou72EGuG1pb18uGoQhYbqXH0h'       # access token genrated in twitter apps
+access_token_secret = 'IsldJ4CPVZINPxzzv5h23DuBGruxuayffVrbDmWtW655Y'    #access token secret genrated in twitter apps
